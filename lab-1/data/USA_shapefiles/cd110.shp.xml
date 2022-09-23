@@ -1,0 +1,937 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="en">
+	<Esri>
+		<CreaDate>20140910</CreaDate>
+		<CreaTime>15071800</CreaTime>
+		<SyncOnce>FALSE</SyncOnce>
+		<SyncDate>20080503</SyncDate>
+		<SyncTime>13161000</SyncTime>
+		<ModDate>20100516</ModDate>
+		<ModTime>17401700</ModTime>
+		<Sync>FALSE</Sync>
+		<ArcGISFormat>1.0</ArcGISFormat><DataProperties><itemProps><itemLocation><linkage Sync="TRUE">file://\\HARNEY\C$\MGIS5\mgisdata\Usa\usdata5.mdb</linkage><protocol Sync="TRUE">Local Area Network</protocol></itemLocation></itemProps><lineage><Process ToolSource="C:\Program Files (x86)\ArcGIS\Desktop10.0\ArcToolbox\Toolboxes\Data Management Tools.tbx\Project" Date="20100516" Time="164935">Project C:\temp\esridata\data_streemap\usa\census\cd110.sdc\cd110 C:\MGIS5\mgisdata\Usa\usdata5.mdb\cd110 PROJCS['North_America_Equidistant_Conic',GEOGCS['GCS_North_American_1983',DATUM['D_North_American_1983',SPHEROID['GRS_1980',6378137.0,298.257222101]],PRIMEM['Greenwich',0.0],UNIT['Degree',0.0174532925199433]],PROJECTION['Equidistant_Conic'],PARAMETER['False_Easting',0.0],PARAMETER['False_Northing',0.0],PARAMETER['Central_Meridian',-96.0],PARAMETER['Standard_Parallel_1',20.0],PARAMETER['Standard_Parallel_2',60.0],PARAMETER['Latitude_Of_Origin',40.0],UNIT['Meter',1.0]] WGS_1984_(ITRF00)_To_NAD_1983 GEOGCS['GCS_WGS_1984',DATUM['D_WGS_1984',SPHEROID['WGS_1984',6378137.0,298.257223563]],PRIMEM['Greenwich',0.0],UNIT['Degree',0.0174532925199433]]</Process></lineage></DataProperties></Esri>
+	<idinfo>
+		<native Sync="TRUE">Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 2; ESRI ArcCatalog 9.3.0.1746</native>
+		<descript>
+			<langdata Sync="TRUE">en</langdata>
+			<abstract>U.S. 110th Congressional Districts represents the political boundaries for the U.S. 110th Congressional Districts. The membership is current as of May 1, 2008.</abstract>
+			<purpose>U.S. 110th Congressional Districts provides the locations of Congressional Districts, primarily for national planning applications.</purpose>
+			<supplinf>Largest scale when displaying the data: 1:1,000,000.</supplinf>
+		</descript>
+		<citation>
+			<citeinfo>
+				<pubdate>20080401</pubdate>
+				<title>U.S. 110th Congressional Districts</title>
+				<ftname Sync="TRUE">cd110.sdc</ftname>
+				<geoform Sync="TRUE">vector digital data</geoform>
+				<edition>2008</edition>
+				<serinfo>
+					<sername>ESRIÂ® Data &amp; Maps</sername>
+					<issue>2008 World, Europe, United States, Canada, and Mexico</issue>
+				</serinfo>
+				<pubinfo>
+					<pubplace>Redlands, California, USA</pubplace>
+					<publish>ESRI</publish>
+				</pubinfo>
+				<othercit>Location: \usa\census</othercit>
+				<origin>ESRI</origin>
+			</citeinfo>
+		</citation>
+		<timeperd>
+			<current>ground condition: 200701â€“200901, 200501â€“200701, 200301â€“200501, 200211, 200101â€“200301, 20040106, 20030702; publication date: 2004, 2006, 20070306, 20080501</current>
+			<timeinfo>
+				<mdattim>
+					<sngdate>
+						<caldate>200701â€“200901</caldate>
+					</sngdate>
+					<sngdate>
+						<caldate>200501â€“200701</caldate>
+					</sngdate>
+					<sngdate>
+						<caldate>200301â€“200501</caldate>
+					</sngdate>
+					<sngdate>
+						<caldate>200211</caldate>
+					</sngdate>
+					<sngdate>
+						<caldate>200101â€“200301</caldate>
+					</sngdate>
+					<sngdate>
+						<caldate>2004</caldate>
+					</sngdate>
+					<sngdate>
+						<caldate>20040106</caldate>
+					</sngdate>
+					<sngdate>
+						<caldate>20030702</caldate>
+					</sngdate>
+					<sngdate>
+						<caldate>2006</caldate>
+					</sngdate>
+					<sngdate>
+						<caldate>20070306</caldate>
+					</sngdate>
+					<sngdate><caldate>20080501</caldate></sngdate></mdattim>
+			</timeinfo>
+		</timeperd>
+		<status>
+			<progress>Complete</progress>
+			<update>Annually</update>
+		</status>
+		<spdom>
+			<bounding>
+				<westbc Sync="TRUE">-179.147336</westbc>
+				<eastbc Sync="TRUE">-65.221109</eastbc>
+				<northbc Sync="TRUE">71.352563</northbc>
+				<southbc Sync="TRUE">17.884809</southbc>
+			</bounding>
+			<lboundng>
+				<leftbc Sync="TRUE">-179.147336</leftbc>
+				<rightbc Sync="TRUE">-65.221109</rightbc>
+				<bottombc Sync="TRUE">17.884809</bottombc>
+				<topbc Sync="TRUE">71.352563</topbc>
+			</lboundng>
+		</spdom>
+		<keywords>
+			<theme>
+				<themekt>None</themekt>
+				<themekey>polygon</themekey>
+				<themekey>Congressional Districts</themekey>
+				<themekey>Congress</themekey>
+				<themekey>House of Representatives</themekey>
+				<themekey>society</themekey>
+			</theme>
+			<place>
+				<placekey>United States</placekey>
+				<placekey>Puerto Rico</placekey>
+				<placekt>None</placekt>
+				<placekey>Congressional Districts</placekey>
+			</place>
+			<temporal>
+				<tempkt>None</tempkt>
+				<tempkey>2007â€“2009</tempkey>
+				<tempkey>2005â€“2007</tempkey>
+				<tempkey>2003â€“2005</tempkey>
+				<tempkey>2002</tempkey>
+				<tempkey>2001â€“2003</tempkey>
+				<tempkey>2004</tempkey>
+				<tempkey>2004</tempkey>
+				<tempkey>2003</tempkey>
+				<tempkey>2006</tempkey>
+				<tempkey>2007</tempkey>
+				<tempkey>2008</tempkey></temporal>
+		</keywords>
+		<accconst>Access granted to Licensee only.</accconst>
+		<useconst>The data are provided by multiple, third party data vendors under license to ESRI for inclusion on ESRI Data &amp; Maps for use with ESRIÂ® software.  Each data vendor has its own data licensing policies and may grant varying redistribution rights to end users. Please consult the redistribution rights below for this data set provided on ESRI Data &amp; Maps. As used herein, â€œGeodataâ€ shall mean any digital data set consisting of geographic data coordinates and associated attributes.
+
+The redistribution rights for this data set: Redistribution rights are granted by the data vendor for hard-copy renditions or static, electronic map images (e.g. .gif, .jpeg, etc.) that are plotted, printed, or publicly displayed with proper metadata and source/copyright attribution to the respective data vendor(s).  Geodata is redistributable with a Value-Added Software Application developed by ESRI Business Partners on a royalty-free basis with proper metadata and source/copyright attribution to the respective data vendor(s).  Geodata is redistributable without a Value-Added Software Application (i.e., adding the sample data to an existing, [non]commercial data set for redistribution) with proper metadata and source/copyright attribution to the respective data vendor(s).
+
+The terms and conditions below apply to all the data sets provided on ESRI Data &amp; Maps.
+
+Proprietary Rights and Copyright: Licensee acknowledges that the Data and Related Materials contain proprietary and confidential property of ESRI and its licensor(s). The Data and Related Materials are owned by ESRI and its licensor(s) and are protected by United States copyright laws and applicable international copyright treaties and/or conventions.
+
+Limited Warranty and Disclaimer: ESRI warrants that the media upon which the Data and Related Materials are provided will be free from defects in materials and workmanship under normal use and service for a period of ninety (90) days from the date of receipt.
+
+THE DATA AND RELATED MATERIALS ARE EXCLUDED FROM THE LIMITED WARRANTY, AND THE LICENSEE EXPRESSLY ACKNOWLEDGES THAT THE DATA CONTAINS SOME NONCONFORMITIES, DEFECTS, OR ERRORS. ESRI DOES NOT WARRANT THAT THE DATA WILL MEET LICENSEE'S NEEDS OR EXPECTATIONS; THAT THE USE OF THE DATA WILL BE UNINTERRUPTED; OR THAT ALL NONCONFORMITIES, DEFECTS, OR ERRORS CAN OR WILL BE CORRECTED. ESRI IS NOT INVITING RELIANCE ON THIS DATA, AND THE LICENSEE SHOULD ALWAYS VERIFY ACTUAL DATA.
+
+EXCEPT FOR THE LIMITED WARRANTY SET FORTH ABOVE, THE DATA AND RELATED MATERIALS CONTAINED THEREIN ARE PROVIDED "AS-IS," WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.
+
+HIGH RISK ACTIVITIES: 
+(A) THE DATA AND RELATED MATERIALS ARE NOT FAULT-TOLERANT AND ARE NOT DESIGNED, MANUFACTURED, OR INTENDED FOR USE OR RESALE FOR INSURANCE UNDERWRITING OR WITH CRITICAL HEALTH AND SAFETY OR ONLINE CONTROL EQUIPMENT IN HAZARDOUS ENVIRONMENTS THAT REQUIRE FAIL-SAFE PERFORMANCE, INCLUDING, BUT NOT LIMITED TO THE OPERATION OF NUCLEAR FACILITIES, NAVIGATION OR GUIDANCE (I.E., AIRCRAFT, NAUTICAL VEHICLE, ETC.), OR COMMUNICATION SYSTEMS, AIR TRAFFIC CONTROL, EMERGENCY RESPONSE, TERRORISM PREVENTION OR RESPONSE, LIFE SUPPORT, OR WEAPONS SYSTEMS ("HIGH RISK ACTIVITIES"). ESRI SPECIFICALLY DISCLAIMS ANY EXPRESS OR IMPLIED WARRANTY OF FITNESS FOR HIGH RISK ACTIVITIES.
+
+(B) TO THE EXTENT PERMITTED BY LAW, LICENSEE AGREES TO INDEMNIFY, DEFEND, AND HOLD ESRI, ITS OFFICERS, DIRECTORS, EMPLOYEES, AGENTS, SUBCONTRACTORS, LICENSORS, SUCCESSORS, AND ASSIGNS HARMLESS FROM AND AGAINST ANY AND ALL LIABILITY, LOSSES, CLAIMS, EXPENSES (INCLUDING ATTORNEYS' FEES), DEMANDS, OR DAMAGES OF ANY KIND, INCLUDING DIRECT, INDIRECT, SPECIAL, PUNITIVE, INCIDENTAL, OR CONSEQUENTIAL DAMAGES, ARISING OUT OF OR IN ANY WAY CONNECTED WITH LICENSEE'S USE OR PERMITTING THE USE BY OTHERS OF THE DATA, AND VENDOR'S HARDWARE OR SOFTWARE FOR HIGH RISK ACTIVITIES. DELIVERY OF THE DATA, AND VENDOR'S HARDWARE OR SOFTWARE DOES NOT CONSTITUTE A WAIVER OF THE RIGHTS AND OBLIGATIONS SET FORTH IN THIS ARTICLE.
+
+Exclusive Remedy and Limitation of Liability: The entire liability of ESRI or its licensor(s) and Licensee's exclusive remedy shall be to terminate the Agreement upon Licensee returning the Data and Related Materials to ESRI with a copy of Licensee's invoice/receipt and ESRI returning the license fees paid to Licensee.
+
+IN NO EVENT SHALL ESRI AND/OR ITS LICENSOR(S) BE LIABLE FOR COSTS OF PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOST PROFITS, LOST SALES, OR BUSINESS EXPENDITURES, INVESTMENTS, OR COMMITMENTS IN CONNECTION WITH ANY BUSINESS; LOSS OF ANY GOODWILL; OR FOR ANY INDIRECT, SPECIAL, INCIDENTAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES ARISING OUT OF THIS AGREEMENT OR USE OF THE DATA AND RELATED MATERIALS, HOWEVER CAUSED, ON ANY THEORY OF LIABILITY, AND WHETHER OR NOT ESRI OR ITS LICENSOR(S) HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. THESE LIMITATIONS SHALL APPLY NOTWITHSTANDING ANY FAILURE OF ESSENTIAL PURPOSE OF ANY EXCLUSIVE REMEDY.
+
+Third Party Beneficiary: ESRI's licensor(s) has (have) authorized ESRI to (sub)distribute and (sub)license its (their) data as incorporated into the Data and Related Materials. As an intended third party beneficiary to this Agreement, the ESRI licensor(s) is (are) entitled to directly enforce, in its own name, the rights and obligations undertaken by the Licensee and to seek all legal and equitable remedies as are afforded to ESRI.
+
+In the event that the data vendor(s) has (have) granted the end user permission to redistribute the Geodata, please use proper proprietary or copyright attribution for the various data vendor(s), and provide the associated metadata file(s) with the Geodata. In compliance with FGDC metadata standards, ESRI has attempted to practice proper metadata methodologies by providing any data source information, descriptions, and file names to assist in this effort.</useconst>
+		<natvform Sync="TRUE">SDC Feature Database</natvform>
+		<ptcontac>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>ESRI</cntorg>
+					<cntper>Data Team</cntper>
+				</cntorgp>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>380 New York Street</address>
+					<city>Redlands</city>
+					<state>California</state>
+					<postal>92373-8100</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>909-793-2853</cntvoice>
+				<cntfax>909-793-5953</cntfax>
+				<cntemail>info@esri.com</cntemail>
+				<hours>7:00 a.m.â€“5:30 p.m. Pacific time, Mondayâ€“Friday</hours>
+				<cntinst>In the United Statesâ€“
+Please direct all inquiries regarding software/data pricing and consulting services to your local ESRI Regional Office.  For support, you may contact ESRI Support Center by telephone (voice) between 6:00 a.m. and 5:00 p.m. Pacific time, Monday through Friday, by dialing 888-377-4575; facsimile (fax) available at 909-792-0960; electronic mail (e-mail) support@esri.com; or visit http://support.esri.com/; ESRI holidays excluded. 
+
+Outside the United Statesâ€“
+Please direct all inquiries regarding software/data pricing, sales, support, and consulting services to your local ESRI International Distributor.  This information can be found at http://gis.esri.com/intldist/contact/.  
+
+For other questions or comments, you may contact ESRI headquarters by e-mail, telephone, or fax or write to us.</cntinst>
+			</cntinfo>
+		</ptcontac>
+	</idinfo>
+	<metainfo>
+		<langmeta Sync="TRUE">en</langmeta>
+		<metstdn Sync="TRUE">FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+		<metstdv Sync="TRUE">FGDC-STD-001-1998</metstdv>
+		<mettc Sync="TRUE">local time</mettc>
+		<metc>
+			<cntinfo>
+				<cntorgp>
+					<cntper>Data Team</cntper>
+					<cntorg>ESRI</cntorg>
+				</cntorgp>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<city>Redlands</city>
+					<state>California</state>
+					<postal>92373-8100</postal>
+					<address>380 New York Street</address>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>909-793-2853</cntvoice>
+				<cntfax>909-793-5953</cntfax>
+				<cntemail>info@esri.com</cntemail>
+				<hours>7:00 a.m.â€“5:30 p.m. Pacific time, Mondayâ€“Friday</hours>
+			</cntinfo>
+		</metc>
+		<metd Sync="TRUE">20080503</metd>
+		<metextns>
+			<onlink Sync="TRUE">http://www.esri.com/metadata/esriprof80.html</onlink>
+			<metprof Sync="TRUE">ESRI Metadata Profile</metprof>
+		</metextns>
+	</metainfo>
+	<spdoinfo>
+		<direct Sync="TRUE">Vector</direct>
+		<ptvctinf>
+			<esriterm Name="cd110">
+				<efeatyp Sync="TRUE">Simple</efeatyp>
+				<efeageom Sync="TRUE">Polygon</efeageom>
+				<esritopo Sync="TRUE">FALSE</esritopo>
+				<efeacnt Sync="TRUE">437</efeacnt>
+				<spindex>TRUE</spindex>
+				<linrefer Sync="TRUE">FALSE</linrefer>
+				<featdesc>U.S. 110th Congressional District</featdesc>
+			</esriterm>
+			<sdtsterm Name="cd110">
+				<sdtstype Sync="TRUE">G-polygon</sdtstype>
+				<ptvctcnt Sync="TRUE">437</ptvctcnt>
+			</sdtsterm>
+		</ptvctinf>
+	</spdoinfo>
+	<spref>
+		<horizsys>
+			<cordsysn>
+				<geogcsn Sync="TRUE">GCS_WGS_1984</geogcsn>
+			</cordsysn>
+			<geograph>
+				<geogunit Sync="TRUE">Decimal degrees</geogunit>
+				<latres Sync="TRUE">0.000000</latres>
+				<longres Sync="TRUE">0.000000</longres>
+			</geograph>
+			<geodetic>
+				<horizdn Sync="TRUE">D_WGS_1984</horizdn>
+				<ellips Sync="TRUE">WGS_1984</ellips>
+				<semiaxis Sync="TRUE">6378137.000000</semiaxis>
+				<denflat Sync="TRUE">298.257224</denflat>
+			</geodetic>
+		</horizsys>
+	</spref>
+	<eainfo>
+		<detailed Name="cd110">
+			<enttyp>
+				<enttypl Sync="TRUE">cd110</enttypl>
+				<enttypt Sync="TRUE">Feature Class</enttypt>
+				<enttypc Sync="TRUE">437</enttypc>
+				<enttypd>An area established by state officials or the courts for the purpose of electing a person to the U.S. House of Representatives.  Within each state, these areas must contain, as nearly as possible, an equal number of inhabitants. The number of congressional districts in each state may change after each decennial census, and the boundaries may be changed more than once during a decade.</enttypd>
+				<enttypds>Department of Commerce, Census Bureau</enttypds>
+			</enttyp>
+			<attr>
+				<attrlabl Sync="TRUE">ObjectID</attrlabl>
+				<attalias Sync="TRUE">ObjectID</attalias>
+				<attrtype Sync="TRUE">OID</attrtype>
+				<attwidth Sync="TRUE">4</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+				<attrdef Sync="TRUE">Internal feature number.</attrdef>
+				<attrdefs Sync="TRUE">ESRI</attrdefs>
+				<attrdomv>
+					<udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">Shape</attrlabl>
+				<attalias Sync="TRUE">Shape</attalias>
+				<attrtype Sync="TRUE">Geometry</attrtype>
+				<attwidth Sync="TRUE">0</attwidth>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+				<attrdef Sync="TRUE">Feature geometry.</attrdef>
+				<attrdefs Sync="TRUE">ESRI</attrdefs>
+				<attrdomv>
+					<udom Sync="TRUE">Coordinates defining the features.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">NAME</attrlabl>
+				<attalias Sync="TRUE">NAME</attalias>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">30</attwidth>
+				<attrdef>The name of the representative for the congressional district.</attrdef>
+				<attrdefs>Clerk of the U.S. House of Representatives</attrdefs>
+				<attrdomv>
+					<udom>Names for the features.</udom>
+				</attrdomv>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">PARTY</attrlabl>
+				<attalias Sync="TRUE">PARTY</attalias>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">11</attwidth>
+				<attrdef>The political party of the representative for the congressional district.</attrdef>
+				<attrdefs>Clerk of the U.S. House of Representatives</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>Democrat</edomv>
+						<edomvd>The representative is a Democrat.</edomvd>
+						<edomvds>ESRI</edomvds>
+					</edom>
+					<edom>
+						<edomv>Independent</edomv>
+						<edomvds>ESRI</edomvds>
+						<edomvd>The representative is an Independent.</edomvd>
+					</edom>
+					<edom>
+						<edomv>Republican</edomv>
+						<edomvd>The representative is a Republican.</edomvd>
+						<edomvds>ESRI</edomvds>
+					</edom>
+					<edom>
+						<edomv>Vacant</edomv>
+						<edomvds>ESRI</edomvds>
+						<edomvd>The representative has resigned, died, or declined to serve.</edomvd>
+					</edom>
+				</attrdomv>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">DISTRICTID</attrlabl>
+				<attalias Sync="TRUE">DISTRICTID</attalias>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">4</attwidth>
+				<attrdef>The congressional district code (four-digit number).</attrdef>
+				<attrdefs>Department of Commerce, Census Bureau</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Federal Information Processing Standards (PUB 9-1)</codesetn>
+						<codesets>National Institute of Standards and Technology</codesets>
+					</codesetd>
+				</attrdomv>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">STFIPS</attrlabl>
+				<attalias Sync="TRUE">STFIPS</attalias>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">2</attwidth>
+				<attrdef>The FIPS code (two-digit number) for the state in which the congressional district is located.</attrdef>
+				<attrdefs>Department of Commerce, National Institute of Standards and Technology</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Federal Information Processing Standards</codesetn>
+						<codesets>National Institute of Standards and Technology</codesets>
+					</codesetd>
+				</attrdomv>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">STATE_ABBR</attrlabl>
+				<attalias Sync="TRUE">STATE_ABBR</attalias>
+				<attrtype Sync="TRUE">String</attrtype>
+				<attwidth Sync="TRUE">2</attwidth>
+				<attrdef>The two-letter abbreviation for the state in which the congressional district is located.</attrdef>
+				<attrdefs>Department of Commerce, National Institute of Standards and Technology</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Federal Information Processing Standards 5â€“2</codesetn>
+						<codesets>National Institute of Standards and Technology</codesets>
+					</codesetd>
+				</attrdomv>
+				<atprecis Sync="TRUE">0</atprecis>
+				<attscale Sync="TRUE">0</attscale>
+			</attr>
+			<attr>
+				<attrlabl Sync="TRUE">SQMI</attrlabl>
+				<attalias Sync="TRUE">SQMI</attalias>
+				<attrtype Sync="TRUE">Double</attrtype>
+				<attwidth Sync="TRUE">8</attwidth>
+				<attrdefs>ESRI</attrdefs>
+				<attrdef>The area of the congressional district in square miles.</attrdef>
+				<attrdomv>
+					<udom>Calculated areas for the features.</udom>
+				</attrdomv>
+				<atprecis Sync="TRUE">16</atprecis>
+				<attscale Sync="TRUE">2</attscale>
+			</attr>
+		</detailed>
+	</eainfo>
+	<distinfo>
+		<stdorder>
+			<digform>
+				<digtinfo>
+					<transize Sync="TRUE">3.476</transize>
+					<dssize Sync="TRUE">3.476</dssize>
+					<formname>SDC</formname>
+					<filedec>ArcGISÂ® software</filedec>
+					<formspec>The SDC file contains the geospatial and attribute data. The SDI file contains the spatial index. The PRJ file contains the coordinate system information (optional). The XML file (*.sdc.xml) contains the metadata describing the data set (optional).</formspec>
+				</digtinfo>
+				<digtopt>
+					<offoptn>
+						<offmedia>DVDâ€“ROM</offmedia>
+						<reccap>
+							<recden>7.95</recden>
+							<recdenu>GB (gigabytes)</recdenu>
+						</reccap>
+						<recfmt>UDF (Universal Disc Format)</recfmt>
+					</offoptn>
+				</digtopt>
+			</digform>
+			<fees>Software purchase price</fees>
+			<ordering>ESRI Data &amp; Maps is available only as part of ESRIÂ® software.</ordering>
+		</stdorder>
+		<distrib>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>ESRI; ESRI International Distributors</cntorg>
+				</cntorgp>
+				<cntinst>In the United States, contact the ESRI Telebusiness staff at 800-447-9778 for more information about our software and data.
+
+Outside the United States, please direct all inquiries to your local ESRI International Distributor.  This information can be found at http://gis.esri.com/intldist/contact/.</cntinst>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>380 New York Street</address>
+					<city>Redlands</city>
+					<state>California</state>
+					<postal>92373-8100</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>800-447-9778</cntvoice>
+			</cntinfo>
+		</distrib>
+		<techpreq>To use this data requires software that supports SDC files.</techpreq>
+		<distliab>See use constraints.</distliab>
+		<resdesc>Offline Data</resdesc>
+	</distinfo>
+	<dataqual>
+		<lineage>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<title>U.S. 109th Congressional Districts</title>
+						<origin>ESRI</origin>
+						<pubdate>20070501</pubdate>
+						<geoform>vector digital data</geoform>
+						<pubinfo>
+							<publish>ESRI</publish>
+							<pubplace>Redlands, California, USA</pubplace>
+						</pubinfo>
+						<onlink>http://www.esri.com/</onlink>
+						<edition>2007</edition>
+						<serinfo>
+							<sername>ESRIÂ® Data &amp; Maps</sername>
+							<issue>2007 World, Europe, United States, Canada, and Mexico</issue>
+						</serinfo>
+					</citeinfo>
+				</srccite>
+				<srcscale>1000000</srcscale>
+				<srctime>
+					<timeinfo>
+						<mdattim>
+							<sngdate>
+								<caldate>200501â€“200701</caldate>
+							</sngdate>
+							<sngdate>
+								<caldate>200301â€“200501</caldate>
+							</sngdate>
+							<sngdate>
+								<caldate>200211</caldate>
+							</sngdate>
+							<sngdate>
+								<caldate>200101â€“200301</caldate>
+							</sngdate>
+							<sngdate>
+								<caldate>2004</caldate>
+							</sngdate>
+							<sngdate>
+								<caldate>20040106</caldate>
+							</sngdate>
+							<sngdate>
+								<caldate>20030702</caldate>
+							</sngdate>
+							<sngdate>
+								<caldate>2006</caldate>
+							</sngdate>
+							<sngdate>
+								<caldate>20070306</caldate>
+							</sngdate>
+						</mdattim>
+					</timeinfo>
+					<srccurr>ground condition: 200501â€“200701, 200301â€“200501, 200211, 200101â€“200301, 20040106, 20030702; publication date: 2004, 2006, 20070306</srccurr>
+				</srctime>
+				<srccitea>ESRI Data &amp; Maps 2007</srccitea>
+				<srccontr>Attribute and geospatial data</srccontr>
+				<typesrc>DVDâ€“ROM</typesrc>
+			</srcinfo>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>U.S. Census Bureau, Geography Division</origin>
+						<title>2006 Second Edition TIGER/Line Files</title>
+						<serinfo>
+							<sername>TIGER/LineÂ® Files</sername>
+							<issue>2006 Second Edition</issue>
+						</serinfo>
+						<pubinfo>
+							<pubplace>online</pubplace>
+							<publish>U.S. Census Bureau, Geography Division</publish>
+						</pubinfo>
+						<pubdate>20070306</pubdate>
+						<edition>2006 Second Edition</edition>
+						<geoform>tabular digital data</geoform>
+						<othercit>Provided the congressional district boundaries for Pennsylvania, Georgia, and Texas.</othercit>
+						<onlink>ftp://www2.census.gov/geo/tiger/tiger2006se/</onlink>
+						<onlink>http://www.census.gov/geo/www/tiger/tiger2006se/tgr2006se.html</onlink></citeinfo>
+				</srccite>
+				<srccontr>Attribute and geospatial data</srccontr>
+				<typesrc>online</typesrc>
+				<srccitea>2006 Second Edition TIGER/Line</srccitea>
+				<srctime>
+					<timeinfo>
+						<sngdate>
+							<caldate>20070306</caldate>
+						</sngdate>
+					</timeinfo>
+					<srccurr>publication date</srccurr>
+				</srctime>
+			</srcinfo>
+			<srcinfo>
+				<typesrc>online</typesrc>
+				<srccontr>Attribute data</srccontr>
+				<srccite>
+					<citeinfo>
+						<origin>Clerk of the U.S. House of Representatives</origin>
+						<title>MEMBER INFORMATION</title>
+						<pubinfo>
+							<pubplace>online</pubplace>
+							<publish>Clerk of the U.S. House of Representatives</publish>
+						</pubinfo>
+						<pubdate>20080501</pubdate>
+						<geoform>document</geoform>
+						<onlink>http://clerk.house.gov/member_info/olm110.html</onlink>
+					</citeinfo>
+				</srccite>
+				<srccitea>http://clerk.house.gov</srccitea>
+				<srctime>
+					<timeinfo>
+						<sngdate><caldate>20080501</caldate></sngdate></timeinfo>
+					<srccurr>publication date</srccurr>
+				</srctime>
+			</srcinfo>
+			<procstep><srcused>ESRI Data &amp; Maps 2007</srcused><srcused>2006 Second Edition TIGER/Line</srcused><procdesc>The following steps were performed by ESRI: Copied the ESRI Data &amp; Maps 2007 U.S. 109th Congressional Districts (CD) shapefile. Downloaded Pennsylvania, Georgia, and Texas from the U.S. Census Bureau website. Used ArcGIS for Pennsylvania and Feature Manipulation Engine (FME) for Georgia and Texas to merge TIGER/Line files by state into shapefiles, and then dissolved on source CDCU code to create the final congressional districts. Replaced the old data with the new for Pennsylvania, Georgia, and Texas in the data set to create the new 110th CD shapefile. Compared NAME and PARTY attribute values to information at http://clerk.house.gov/member_info/olm110.html, and updated any necessary values. Calculated new values for the SQMI attribute. Converted the data set to SDC. Created ArcGISÂ® layer file (.lyr), projection file (.prj), and spatial indices.</procdesc><procsv>ArcViewÂ® GIS 3, ArcGISÂ® 9, ArcSDEÂ®, Feature Manipulation Engine (FME)</procsv><srcused>http://clerk.house.gov</srcused><procdate>20080502</procdate></procstep></lineage>
+		<posacc>
+			<horizpa>
+				<horizpar>The positional accuracy is unknown.</horizpar>
+			</horizpa>
+		</posacc>
+		<logic>The shapefile is converted to SDC (Smart Data Compression) format using either ESRI SDC Data Development Kit Professional 2 (DDKP2) or tools in ArcGIS.  The SDC data set is then loaded into ArcSDEÂ® to verify and validate the geometry.</logic>
+		<complete>After processing, the data set is checked for drawing display and number of records and file sizes compared with source materials.
+
+Line simplification and smoothing was performed with a tolerance of 0.005 decimal degrees and a coordinate reduction using the Douglas-Peucker method with a tolerance of 0.0003 decimal degrees. Very small polygons were eliminated when the combination of geographic codes existed elsewhere.</complete>
+	</dataqual>
+	<mdDateSt Sync="TRUE">20100516</mdDateSt>
+	<Binary>
+		<Thumbnail>
+			<Data EsriPropertyType="PictureX">/9j/4AAQSkZJRgABAQEAAQABAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0a
+HBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIy
+MjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wAARCACFAMgDASIA
+AhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQA
+AAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3
+ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWm
+p6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEA
+AwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSEx
+BhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElK
+U1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3
+uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD3+iii
+gAooooAKKKKACiijpQAUVDcXHkeSdhZZJAhII+XOcE/jgfjVG71B0jvEaF1jjynmK+CMqMH265zn
+ilKSjuBqUVnRRpLCkqPOodARmVwQMccE9eamtppFlMFw25iSY5NuNw549Mj9Rz61z0sVCpLlWjKc
+Wi3RRRXSSFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUySVIU3yMFXONx4Ap9NdFkRk
+dQyMMMrDII9DQA6msVJ8thncDwRwR3/nVZYpbQN5I82LI2xZAKDGMKemOOhx1PPQVH/a1ooLXAlt
+ip2kzxFAOn8XTHTkHFAC3V1LBNFbww4EhCrJjKr1JGPXA4+vtUf2eU3Qle4LBemFwxHPDEcEenHG
+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
+CiiigAooooAKKKKACiiigD//2Q==</Data>
+		</Thumbnail>
+	</Binary>
+	<dataIdInfo>
+		<envirDesc Sync="TRUE">Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 2; ESRI ArcCatalog 9.3.0.1746</envirDesc>
+		<dataLang>
+			<languageCode Sync="TRUE" value="en"/>
+		</dataLang>
+		<idCitation>
+			<resTitle>U.S. 110th Congressional Districts</resTitle>
+			<presForm>
+				<PresFormCd Sync="TRUE" value="005"/>
+			</presForm>
+			<resEd>2008</resEd>
+			<resEdDate>20080401</resEdDate>
+			<resRefDate>
+				<refDate>20080502</refDate>
+				<refDateType>
+					<DateTypCd value="001"/>
+				</refDateType>
+			</resRefDate>
+			<citRespParty>
+				<rpIndName>Data Team</rpIndName>
+				<rpOrgName>ESRI</rpOrgName>
+				<rpPosName>Data Team</rpPosName>
+				<role>
+					<RoleCd value="007"/>
+				</role>
+				<rpCntInfo>
+					<cntAddress>
+						<delPoint>380 New York Street</delPoint>
+						<city>Redlands</city>
+						<adminArea>California</adminArea>
+						<postCode>92373-8100</postCode>
+						<eMailAdd>info@esri.com</eMailAdd>
+						<country>us</country>
+					</cntAddress>
+					<cntPhone>
+						<voiceNum>909-793-2853</voiceNum>
+						<faxNum>909-793-5953</faxNum>
+					</cntPhone>
+				</rpCntInfo>
+			</citRespParty>
+			<resRefDate>
+				<refDate>20080401</refDate>
+				<refDateType>
+					<DateTypCd value="002"/>
+				</refDateType>
+			</resRefDate>
+		</idCitation>
+		<spatRpType>
+			<SpatRepTypCd Sync="TRUE" value="001"/>
+		</spatRpType>
+		<dataExt>
+			<geoEle>
+				<GeoBndBox esriExtentType="native">
+					<westBL Sync="TRUE">-179.147336</westBL>
+					<eastBL Sync="TRUE">-65.221109</eastBL>
+					<northBL Sync="TRUE">71.352563</northBL>
+					<southBL Sync="TRUE">17.884809</southBL>
+					<exTypeCode Sync="TRUE">1</exTypeCode>
+				</GeoBndBox>
+			</geoEle>
+			<tempEle><TempExtent><exTemp><TM_GeometricPrimitive><TM_Period><begin>200101</begin><end>200901</end></TM_Period></TM_GeometricPrimitive></exTemp></TempExtent></tempEle></dataExt>
+		<geoBox esriExtentType="decdegrees">
+			<westBL Sync="TRUE">-179.147336</westBL>
+			<eastBL Sync="TRUE">-65.221109</eastBL>
+			<northBL Sync="TRUE">71.352563</northBL>
+			<southBL Sync="TRUE">17.884809</southBL>
+			<exTypeCode Sync="TRUE">1</exTypeCode>
+		</geoBox>
+		<idAbs>U.S. 110th Congressional Districts represents the political boundaries for the U.S. 110th Congressional Districts. The membership is current as of May 1, 2008.</idAbs>
+		<tpCat>
+			<TopicCatCd value="016"/>
+		</tpCat>
+		<resConst>
+			<Consts>
+				<useLimit>See legal constraints.</useLimit>
+			</Consts>
+			<LegConsts>
+				<accessConsts>
+					<RestrictCd value="005"/>
+				</accessConsts>
+				<othConsts>The data are provided by multiple, third party data vendors under license to ESRI for inclusion on ESRI Data &amp; Maps for use with ESRIÂ® software.  Each data vendor has its own data licensing policies and may grant varying redistribution rights to end users. Please consult the redistribution rights below for this data set provided on ESRI Data &amp; Maps. As used herein, â€œGeodataâ€ shall mean any digital data set consisting of geographic data coordinates and associated attributes.
+
+The redistribution rights for this data set: Redistribution rights are granted by the data vendor for hard-copy renditions or static, electronic map images (e.g. .gif, .jpeg, etc.) that are plotted, printed, or publicly displayed with proper metadata and source/copyright attribution to the respective data vendor(s).  Geodata is redistributable with a Value-Added Software Application developed by ESRI Business Partners on a royalty-free basis with proper metadata and source/copyright attribution to the respective data vendor(s).  Geodata is redistributable without a Value-Added Software Application (i.e., adding the sample data to an existing, [non]commercial data set for redistribution) with proper metadata and source/copyright attribution to the respective data vendor(s).
+
+The terms and conditions below apply to all the data sets provided on ESRI Data &amp; Maps.
+
+Proprietary Rights and Copyright: Licensee acknowledges that the Data and Related Materials contain proprietary and confidential property of ESRI and its licensor(s). The Data and Related Materials are owned by ESRI and its licensor(s) and are protected by United States copyright laws and applicable international copyright treaties and/or conventions.
+
+Limited Warranty and Disclaimer: ESRI warrants that the media upon which the Data and Related Materials are provided will be free from defects in materials and workmanship under normal use and service for a period of ninety (90) days from the date of receipt.
+
+THE DATA AND RELATED MATERIALS ARE EXCLUDED FROM THE LIMITED WARRANTY, AND THE LICENSEE EXPRESSLY ACKNOWLEDGES THAT THE DATA CONTAINS SOME NONCONFORMITIES, DEFECTS, OR ERRORS. ESRI DOES NOT WARRANT THAT THE DATA WILL MEET LICENSEE'S NEEDS OR EXPECTATIONS; THAT THE USE OF THE DATA WILL BE UNINTERRUPTED; OR THAT ALL NONCONFORMITIES, DEFECTS, OR ERRORS CAN OR WILL BE CORRECTED. ESRI IS NOT INVITING RELIANCE ON THIS DATA, AND THE LICENSEE SHOULD ALWAYS VERIFY ACTUAL DATA.
+
+EXCEPT FOR THE LIMITED WARRANTY SET FORTH ABOVE, THE DATA AND RELATED MATERIALS CONTAINED THEREIN ARE PROVIDED "AS-IS," WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.
+
+HIGH RISK ACTIVITIES: 
+(A) THE DATA AND RELATED MATERIALS ARE NOT FAULT-TOLERANT AND ARE NOT DESIGNED, MANUFACTURED, OR INTENDED FOR USE OR RESALE FOR INSURANCE UNDERWRITING OR WITH CRITICAL HEALTH AND SAFETY OR ONLINE CONTROL EQUIPMENT IN HAZARDOUS ENVIRONMENTS THAT REQUIRE FAIL-SAFE PERFORMANCE, INCLUDING, BUT NOT LIMITED TO THE OPERATION OF NUCLEAR FACILITIES, NAVIGATION OR GUIDANCE (I.E., AIRCRAFT, NAUTICAL VEHICLE, ETC.), OR COMMUNICATION SYSTEMS, AIR TRAFFIC CONTROL, EMERGENCY RESPONSE, TERRORISM PREVENTION OR RESPONSE, LIFE SUPPORT, OR WEAPONS SYSTEMS ("HIGH RISK ACTIVITIES"). ESRI SPECIFICALLY DISCLAIMS ANY EXPRESS OR IMPLIED WARRANTY OF FITNESS FOR HIGH RISK ACTIVITIES.
+
+(B) TO THE EXTENT PERMITTED BY LAW, LICENSEE AGREES TO INDEMNIFY, DEFEND, AND HOLD ESRI, ITS OFFICERS, DIRECTORS, EMPLOYEES, AGENTS, SUBCONTRACTORS, LICENSORS, SUCCESSORS, AND ASSIGNS HARMLESS FROM AND AGAINST ANY AND ALL LIABILITY, LOSSES, CLAIMS, EXPENSES (INCLUDING ATTORNEYS' FEES), DEMANDS, OR DAMAGES OF ANY KIND, INCLUDING DIRECT, INDIRECT, SPECIAL, PUNITIVE, INCIDENTAL, OR CONSEQUENTIAL DAMAGES, ARISING OUT OF OR IN ANY WAY CONNECTED WITH LICENSEE'S USE OR PERMITTING THE USE BY OTHERS OF THE DATA, AND VENDOR'S HARDWARE OR SOFTWARE FOR HIGH RISK ACTIVITIES. DELIVERY OF THE DATA, AND VENDOR'S HARDWARE OR SOFTWARE DOES NOT CONSTITUTE A WAIVER OF THE RIGHTS AND OBLIGATIONS SET FORTH IN THIS ARTICLE.
+
+Exclusive Remedy and Limitation of Liability: The entire liability of ESRI or its licensor(s) and Licensee's exclusive remedy shall be to terminate the Agreement upon Licensee returning the Data and Related Materials to ESRI with a copy of Licensee's invoice/receipt and ESRI returning the license fees paid to Licensee.
+
+IN NO EVENT SHALL ESRI AND/OR ITS LICENSOR(S) BE LIABLE FOR COSTS OF PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOST PROFITS, LOST SALES, OR BUSINESS EXPENDITURES, INVESTMENTS, OR COMMITMENTS IN CONNECTION WITH ANY BUSINESS; LOSS OF ANY GOODWILL; OR FOR ANY INDIRECT, SPECIAL, INCIDENTAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES ARISING OUT OF THIS AGREEMENT OR USE OF THE DATA AND RELATED MATERIALS, HOWEVER CAUSED, ON ANY THEORY OF LIABILITY, AND WHETHER OR NOT ESRI OR ITS LICENSOR(S) HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. THESE LIMITATIONS SHALL APPLY NOTWITHSTANDING ANY FAILURE OF ESSENTIAL PURPOSE OF ANY EXCLUSIVE REMEDY.
+
+Third Party Beneficiary: ESRI's licensor(s) has (have) authorized ESRI to (sub)distribute and (sub)license its (their) data as incorporated into the Data and Related Materials. As an intended third party beneficiary to this Agreement, the ESRI licensor(s) is (are) entitled to directly enforce, in its own name, the rights and obligations undertaken by the Licensee and to seek all legal and equitable remedies as are afforded to ESRI.
+
+In the event that the data vendor(s) has (have) granted the end user permission to redistribute the Geodata, please use proper proprietary or copyright attribution for the various data vendor(s), and provide the associated metadata file(s) with the Geodata. In compliance with FGDC metadata standards, ESRI has attempted to practice proper metadata methodologies by providing any data source information, descriptions, and file names to assist in this effort.</othConsts>
+				<useConsts>
+					<RestrictCd value="008"/>
+				</useConsts>
+			</LegConsts>
+		</resConst>
+		<dataScale>
+			<equScale>
+				<rfDenom>1000000</rfDenom></equScale>
+		</dataScale>
+		<descKeys KeyTypCd="005">
+			<keyTyp>
+				<KeyTypCd value="005"/>
+			</keyTyp>
+			<keyword>polygon, Congressional Districts, Congress, House of Representatives, society</keyword></descKeys>
+		<descKeys KeyTypCd="002">
+			<keyTyp>
+				<KeyTypCd value="002"/>
+			</keyTyp>
+			<keyword>United States, Puerto Rico, Congressional Districts</keyword>
+		</descKeys>
+		<descKeys KeyTypCd="004">
+			<keyTyp>
+				<KeyTypCd value="004"/>
+			</keyTyp>
+			<keyword>2007â€“2009, 2005â€“2007, 2003â€“2005, 2002, 2001â€“2003, 2004, 2004, 2003, 2006, 2007, 2008</keyword></descKeys>
+		<resMaint>
+			<maintFreq>
+				<MaintFreqCd value="008"/>
+			</maintFreq>
+		</resMaint>
+		<idPoC Sync="TRUE">
+			<rpIndName Sync="TRUE">Data Team</rpIndName>
+			<rpOrgName Sync="TRUE">ESRI</rpOrgName>
+			<rpPosName Sync="TRUE">Data Team</rpPosName>
+			<rpCntInfo>
+				<cntPhone>
+					<voiceNum Sync="TRUE">909-793-2853</voiceNum>
+					<faxNum Sync="TRUE">909-793-5953</faxNum>
+				</cntPhone>
+				<cntAddress>
+					<delPoint Sync="TRUE">380 New York Street</delPoint>
+					<city Sync="TRUE">Redlands</city>
+					<adminArea Sync="TRUE">California</adminArea>
+					<postCode Sync="TRUE">92373-8100</postCode>
+					<country Sync="TRUE">us</country>
+					<eMailAdd Sync="TRUE">info@esri.com</eMailAdd>
+				</cntAddress>
+			</rpCntInfo>
+			<role>
+				<RoleCd Sync="TRUE" value="007"/>
+			</role>
+		</idPoC>
+	</dataIdInfo>
+	<mdLang>
+		<languageCode Sync="TRUE" value="en"/>
+	</mdLang>
+	<mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName>
+	<mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer>
+	<mdChar>
+		<CharSetCd Sync="TRUE" value="004"/>
+	</mdChar>
+	<mdHrLv>
+		<ScopeCd Sync="TRUE" value="005"/>
+	</mdHrLv>
+	<mdHrLvName Sync="TRUE">dataset</mdHrLvName>
+	<distInfo>
+		<distributor>
+			<distorTran>
+				<onLineSrc>
+					<orDesc>003</orDesc>
+				</onLineSrc>
+				<transSize Sync="TRUE">3.476</transSize>
+				<offLineMed>
+					<medName>
+						<MedNameCd value="003"/>
+					</medName>
+				</offLineMed>
+			</distorTran>
+			<distorFormat>
+				<formatName Sync="TRUE">SDC Feature Database</formatName>
+			</distorFormat>
+			<distorCont>
+				<rpOrgName>ESRI; ESRI International Distributors</rpOrgName>
+				<rpCntInfo>
+					<cntAddress>
+						<delPoint>380 New York Street</delPoint>
+						<city>Redlands</city>
+						<adminArea>California</adminArea>
+						<postCode>92373-8100</postCode>
+						<country>us</country>
+					</cntAddress>
+					<cntPhone>
+						<voiceNum>800-447-9778</voiceNum>
+					</cntPhone>
+				</rpCntInfo>
+				<role>
+					<RoleCd value="005"/>
+				</role>
+			</distorCont>
+			<distorOrdPrc>
+				<ordInstr>ESRI Data &amp; Maps is available only as part of ESRIÂ® software.
+
+In the United States, contact the ESRI Telebusiness staff at 800-447-9778 for more information about our software and data.
+
+Outside the United States, please direct all inquiries to your local ESRI International Distributor.  This information can be found at http://gis.esri.com/intldist/contact/.</ordInstr>
+				<resFees>Software purchase price. ESRI Data &amp; Maps is available only as part of ESRIÂ® software. To use this data requires software that supports SDC files.</resFees>
+			</distorOrdPrc>
+		</distributor>
+	</distInfo>
+	<refSysInfo>
+		<RefSystem>
+			<refSysID>
+				<identCode Sync="TRUE">GCS_WGS_1984</identCode>
+			</refSysID>
+		</RefSystem>
+	</refSysInfo>
+	<spatRepInfo>
+		<VectSpatRep>
+			<topLvl>
+				<TopoLevCd Sync="TRUE" value="001"/>
+			</topLvl>
+			<geometObjs Name="cd110">
+				<geoObjTyp>
+					<GeoObjTypCd Sync="TRUE" value="001"/>
+				</geoObjTyp>
+				<geoObjCnt Sync="TRUE">437</geoObjCnt>
+			</geometObjs>
+		</VectSpatRep>
+	</spatRepInfo>
+	<mdContact>
+		<rpIndName>Data Team</rpIndName>
+		<rpOrgName>ESRI</rpOrgName>
+		<rpPosName>Data Team</rpPosName>
+		<rpCntInfo>
+			<cntAddress>
+				<delPoint>380 New York Street</delPoint>
+				<city>Redlands</city>
+				<adminArea>California</adminArea>
+				<postCode>92373-8100</postCode>
+				<eMailAdd>info@esri.com</eMailAdd>
+				<country>us</country>
+			</cntAddress>
+			<cntPhone>
+				<voiceNum>909-793-2853</voiceNum>
+				<faxNum>909-793-5953</faxNum>
+			</cntPhone>
+		</rpCntInfo>
+		<role>
+			<RoleCd value="010"/>
+		</role>
+	</mdContact>
+	<dqInfo>
+		<dataLineage>
+			<statement>ESRI Data &amp; Maps 2007 (source 1 of 3) 
+
+ESRI, 20070501, U.S. 109th Congressional Districts: ESRIÂ® Data &amp; Maps 2007 World, Europe, United States, Canada, and Mexico, ESRI, Redlands, California, USA. 
+
+Online links: 
+http://www.esri.com/ 
+
+Type of source media: DVDâ€“ROM
+Source scale denominator: 1000000
+Source contribution:
+Attribute and geospatial data
+
+
+2006 Second Edition TIGER/Line (source 2 of 3) 
+
+U.S. Census Bureau, Geography Division, 20070306, 2006 Second Edition TIGER/Line Files: TIGER/LineÂ® Files 2006 Second Edition, U.S. Census Bureau, Geography Division, online. 
+
+Online links: 
+ftp://www2.census.gov/geo/tiger/tiger2006se/ 
+http://www.census.gov/geo/www/tiger/tiger2006se/tgr2006se.html 
+
+Other citation details: 
+Provided the congressional district boundaries for Pennsylvania, Georgia, and Texas.
+
+Type of source media: online
+Source contribution:
+Attribute and geospatial data
+
+
+http://clerk.house.gov (source 3 of 3) 
+
+Clerk of the U.S. House of Representatives, 20080501, MEMBER INFORMATION: Clerk of the U.S. House of Representatives, online. 
+
+Online links: 
+http://clerk.house.gov/member_info/olm110.html 
+
+Type of source media: online
+Source contribution:
+Attribute data
+
+
+Date: 20080502 (change 1 of 1) 
+The following steps were performed by ESRI: Copied the ESRI Data &amp; Maps 2007 U.S. 109th Congressional Districts (CD) shapefile. Downloaded Pennsylvania, Georgia, and Texas from the U.S. Census Bureau website. Used ArcGIS for Pennsylvania and Feature Manipulation Engine (FME) for Georgia and Texas to merge TIGER/Line files by state into shapefiles, and then dissolved on source CDCU code to create the final congressional districts. Replaced the old data with the new for Pennsylvania, Georgia, and Texas in the data set to create the new 110th CD shapefile. Compared NAME and PARTY attribute values to information at http://clerk.house.gov/member_info/olm110.html, and updated any necessary values. Calculated new values for the SQMI attribute. Converted the data set to SDC. Created ArcGISÂ® layer file (.lyr), projection file (.prj), and spatial indices.
+
+Data sources used in this process: 
+ESRI Data &amp; Maps 2007 
+2006 Second Edition TIGER/Line 
+http://clerk.house.gov</statement>
+		</dataLineage>
+		<dqScope>
+			<scpLvl>
+				<ScopeCd value="005"/>
+			</scpLvl>
+		</dqScope>
+	</dqInfo>
+	<mdFileID Sync="TRUE">{5867EFE2-83E2-4D4A-BA15-0D70C27CE631}</mdFileID>
+</metadata>
